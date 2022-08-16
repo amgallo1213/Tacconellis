@@ -44,6 +44,7 @@ h2  {
 
 h3  {
     color: #218739;
+    margin-bottom: 10px;
 }
 
 i   {
@@ -87,6 +88,19 @@ i   {
     font-style: italic;
     color: #175E28;
 }
+
+.order-inst    {
+    /* margin-top: -5px; */
+}
+
+.order-note {
+    color: #BA0D30;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: -5px;
+}
+
 .hours  {
     margin-top: -5px;
 }
