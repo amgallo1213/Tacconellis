@@ -1,0 +1,97 @@
+/* font-family: 'Italianno', cursive; */
+
+/* font-family: 'Lato', sans-serif; */
+
+
+/* background: url('img/someimage.jpg'); */
+
+body    {
+    background-color: #fdffff;
+}
+
+#start-image {
+    background-image: url('images/background.jpeg');
+    height: 500px;
+}
+
+h1  {
+    text-align: center;
+    color: #175E28;
+    margin: 20px;
+    font-size: 3.9rem;
+}
+
+#history    {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.pizza-img  {
+    height: 600px;
+    width: auto;
+}
+
+.history    {
+    width: 500px;
+}
+
+h2  {
+    color: #BA0D30;
+    text-align: center;
+    margin: 20px;
+}
+
+h3  {
+    color: #218739;
+}
+
+i   {
+    color:#BA0D30;
+}
+
+#menu,
+#order,
+#hours   {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.menu   {
+    width: 500px;
+}
+.pizza-img-2    {
+    height: 400px;
+    width: auto;
+    padding: 10px;
+}
+
+.pizza-type {
+    color: #218739;
+    font-weight: 500;
+}
+
+#toppings   {
+    font-size: 0.85rem;
+    line-height: normal;
+}
+
+#beverages  {
+    line-height: normal;
+    font-size: 0.95rem;
+    padding-top: 10px;
+}
+
+#wine   {
+    font-style: italic;
+    color: #175E28;
+}
+.hours  {
+    margin-top: -5px;
+}
+
+iframe  {
+    padding: 20px;
+}
+
