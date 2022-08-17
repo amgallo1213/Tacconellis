@@ -17,7 +17,7 @@ body    {
 h1  {
     text-align: center;
     color: #175E28;
-    margin: 20px;
+    margin: 20px 20px 60px 20px;
     font-size: 3.9rem;
 }
 
@@ -39,12 +39,14 @@ h1  {
 h2  {
     color: #BA0D30;
     text-align: center;
-    margin: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 2.6rem;
 }
 
 h3  {
     color: #218739;
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 i   {
@@ -89,8 +91,8 @@ i   {
     color: #175E28;
 }
 
-.order-inst    {
-    /* margin-top: -5px; */
+.private-event  {
+    margin-bottom: -2px;
 }
 
 .order-note {
@@ -101,11 +103,27 @@ i   {
     margin-bottom: -5px;
 }
 
+#order-note {
+    margin-bottom: 30px;
+}
+
 .hours  {
     margin-top: -5px;
+}
+
+#cash   {
+    color: #175E28;
+    margin-top: 20px;
+    font-size: 1.4rem;
 }
 
 iframe  {
     padding: 20px;
 }
 
+footer  {
+    margin-top: 20px;
+}
+#copyright  {
+    margin-left: 20px;
+}
